@@ -1,1 +1,1 @@
-FossAV is a open source antivirus! Not much more is known, but we plan on being better than ClamAV and Microsoft Defender
+FossAV is a open source antivirus! Feel free to scavange parts of code or databases and/or to help develope this project!
